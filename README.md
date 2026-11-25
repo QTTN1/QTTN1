@@ -1,6 +1,6 @@
 # Hi, I'm Tiye ⭐
 
-Welcome — this profile uses a soft cream theme with gold, silver, and light‑pink accents. For the full themed experience (fonts, colors, layout), visit the GitHub Pages site:
+Welcome - For the full themed experience (fonts, colors, layout), visit the GitHub Pages site:
 
 [Visit my themed site →](https://qttn1.github.io)
 
